@@ -1,4 +1,4 @@
-# dnd-app
+# vue-ads-app
 
 ## Project setup
 ```
